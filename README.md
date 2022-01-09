@@ -1,4 +1,4 @@
-# word-guessing-game
+# Word-Guessing-Game
 A text based game developed using Java.
 
 ## The Game
